@@ -1,5 +1,8 @@
 ### Hi I'm Betul 👋
 
+- name: Profile Readme Stats
+  uses: teoxoy/profile-readme-stats@v1.2
+
 <!--
 **betuldemirr/betuldemirr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
