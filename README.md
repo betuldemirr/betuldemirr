@@ -1,4 +1,7 @@
 ### Hi there 👋, my name is Betul
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=betuldemirr&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ![](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 
