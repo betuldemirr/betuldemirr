@@ -1,4 +1,4 @@
-### Hi i am Betul 👋
+### Hi I'm Betul 👋
 
 <!--
 **betuldemirr/betuldemirr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
