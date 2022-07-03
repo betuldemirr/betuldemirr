@@ -2,12 +2,10 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=betuldemirr&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
-
 
 Skills: HTML / CSS / SCSS / JS / REACT / REACT NATİVE 
 
-- 🔭 I’m currently working on this page. 
+- 🔭 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/betuldemirrr//)  
