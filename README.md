@@ -6,7 +6,7 @@ Skills: HTML / CSS / SCSS / JS / REACT / REACT NATİVE
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=betuldemirr&show_icons=true&theme=radical)
 
 - 📫 How to reach me: 
--    [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/betuldemirrr//)  
+-    [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/betuldemirrr)  
 <!--
 **betuldemirr/betuldemirr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
