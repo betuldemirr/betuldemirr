@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Betul
 
 Skills: HTML / CSS / SCSS / JS / REACT / REACT NATİVE 
-
+**betuldemirr/betuldemirr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=betuldemirr&show_icons=true&theme=radical)
 
@@ -9,7 +9,7 @@ Skills: HTML / CSS / SCSS / JS / REACT / REACT NATİVE
 -    e-mail: betuldemir.007@gmail.com
 -    [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/betuldemirrr)  
 <!--
-**betuldemirr/betuldemirr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
