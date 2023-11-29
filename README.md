@@ -2,14 +2,14 @@
 
 Skills: HTML / CSS / SCSS / JS / REACT / REACT NATİVE 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=betuldemirr&show_icons=true&theme=radical)
-
 - 📫 How to reach me: 
 -    e-mail: betuldemir.007@gmail.com
 -    [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/betuldemirrr)  
 <!--
 
 Here are some ideas to get you started:
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=betuldemirr&show_icons=true&theme=radical)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
