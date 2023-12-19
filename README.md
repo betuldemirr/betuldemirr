@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Betul
 
-Skills: HTML / CSS / SCSS / JS / REACT / REACT NATİVE 
+Skills: HTML / CSS / SCSS / TAILWIND CSS / JAVASCRIPT / TYPESCRIPT / NEXT.JS / REACT.JS / REACT NATİVE 
 
 - 📫 How to reach me: 
 -    e-mail: betuldemir.007@gmail.com
