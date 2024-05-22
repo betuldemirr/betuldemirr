@@ -2,11 +2,11 @@
 
 Skills: HTML / CSS / SCSS / TAILWIND CSS / JAVASCRIPT / TYPESCRIPT / NEXT.JS / REACT.JS / REACT NATİVE 
 
-- 📫 How to reach me **betuldemir.007@gmail.com**
+- 📫 How to reach me : **betuldemir.007@gmail.com**
   
--    [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/betuldemirrr)
+- 📫 How to reach me : [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/betuldemirrr)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=betuldemirr&layout=compact)](https://github.com/betuldemirr/github-readme-stats)
+
 <!--
 
 Here are some ideas to get you started:
