@@ -6,7 +6,7 @@ Skills: HTML / CSS / SCSS / TAILWIND CSS / JAVASCRIPT / TYPESCRIPT / NEXT.JS / R
   
 -    [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/betuldemirrr)
 
-![betuldemirr's github stats](https://github-readme-stats.vercel.app/api?username=mustafacagri&show_icons=true)
+![betuldemirr's github stats](https://github-readme-stats.vercel.app/api?username=betuldemirr&show_icons=true)
 
 
    <h3 align="left">Languages and Tools:</h3>
