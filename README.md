@@ -6,7 +6,7 @@ Skills: HTML / CSS / SCSS / TAILWIND CSS / JAVASCRIPT / TYPESCRIPT / NEXT.JS / R
   
 -    [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/betuldemirrr)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mustafacagri&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=betuldemirr&layout=compact)](https://github.com/betuldemirr/github-readme-stats)
 <!--
 
 Here are some ideas to get you started:
